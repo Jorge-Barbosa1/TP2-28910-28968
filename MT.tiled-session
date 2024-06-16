@@ -1,0 +1,70 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "assets/map1.tmx",
+    "expandedProjectPaths": [
+        "assets",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Arquivos (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#Tileset": {
+            "dynamicWrapping": true,
+            "scaleInEditor": 1
+        },
+        "#tileset": {
+            "dynamicWrapping": false
+        },
+        "assets/map.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "assets/map1.tmj": {
+            "scale": 0.529625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 751.4751003068209,
+                "y": 796.7901817323577
+            }
+        },
+        "assets/map1.tmj#Map1": {
+            "scaleInDock": 1
+        },
+        "assets/map1.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 872,
+                "y": 956
+            }
+        },
+        "assets/map1.tmx#Map1": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 60,
+    "last.exportedFilePath": "C:/Users/jorge/OneDrive/Ambiente de Trabalho/Engenharia Informatica/2ºAno/2º Semestre/Tec. Multimédia/Phaser/TP/assets",
+    "last.externalTilesetPath": "C:/Users/jorge/OneDrive/Ambiente de Trabalho/Engenharia Informatica/2ºAno/2º Semestre/Tec. Multimédia/Phaser/TP/assets",
+    "last.imagePath": "C:/Users/jorge/OneDrive/Ambiente de Trabalho/Engenharia Informatica/2ºAno/2º Semestre/Tec. Multimédia/Phaser/TP/assets",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "Arquivos de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 50,
+    "openFiles": [
+        "assets/map1.tmx",
+        "assets/map1.tmj"
+    ],
+    "project": "MT.tiled-project",
+    "recentFiles": [
+        "assets/map1.tmj",
+        "assets/map1.tmx",
+        "assets/map.tsj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.type": 0
+}
